@@ -1,0 +1,6 @@
+Policy,Mean cost/episode,SD (episodes),95% CI,Failures/1000 steps,Maint./episode,Services/episode,Param (val-tuned)
+Corrective,1439.0,602.1,"[1404.0, 1478.0]",26.78,0.00,0.00,-
+Fixed-interval,1193.5,683.8,"[1153.8, 1237.0]",20.91,0.98,0.00,45
+Risk-threshold,430.3,253.6,"[415.5, 446.7]",2.58,4.11,0.00,0.07
+Risk-threshold (2-level),434.8,274.1,"[418.5, 452.8]",2.93,3.78,0.31,"(0.08, 0.1)"
+RL (Q-learning),434.9,242.2,"[420.8, 450.3]",2.46,4.22,0.49,-

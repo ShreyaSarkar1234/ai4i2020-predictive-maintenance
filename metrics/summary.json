@@ -1,0 +1,27 @@
+{
+ "selected_risk_model": "HistGB",
+ "ml_threshold": 0.5848164906988436,
+ "cm": [
+  [
+   1446,
+   3
+  ],
+  [
+   19,
+   32
+  ]
+ ],
+ "tuned_params": {
+  "Fixed-interval": "45",
+  "Risk-threshold": "0.07",
+  "Risk-threshold (2-level)": "(0.08, 0.1)"
+ },
+ "rl_seed_mean_costs": [
+  435.736,
+  447.362,
+  424.691,
+  438.923,
+  427.838
+ ],
+ "runtime_s": 263.53251600265503
+}

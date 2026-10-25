@@ -1,0 +1,5 @@
+Comparison,Mean diff,95% CI (paired bootstrap),RL lower cost in % episodes
+RL - Corrective,-1004.1,"[-1038.7, -973.4]",99.4
+RL - Fixed-interval,-758.6,"[-796.8, -723.3]",90.2
+RL - Risk-threshold,4.6,"[-1.1, 9.9]",31.1
+RL - Risk-threshold (2-level),0.1,"[-8.5, 8.1]",26.1
